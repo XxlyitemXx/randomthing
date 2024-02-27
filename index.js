@@ -57,8 +57,8 @@ client.on("ready", async () => {
           .setAssetsLargeText(`﹝ 📅 ${currentDate}  | 🛸 0 m/s ﹞`)
           .setAssetsLargeImage(largeImages[currentLargeImageIndex])
           .setAssetsSmallText('🦊')
-          .addButton('About Us ', 'https://discord.com/invite/xhqcSC5K4Y')
-          .addButton('Our Clan', 'https://discord.gg/w00d')
+          .addButton('About Us ', 'http://knonygarden.xyz/')
+          .addButton('Our Clan', 'https://discord.gg/fazcnxhFwf')
 
       client.user.setActivity(r);
 
