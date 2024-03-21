@@ -8,19 +8,16 @@ const app = express();
 const port = 8000;
 
 const largeImages = [
-    'https://media.discordapp.net/attachments/1205101702190202930/1212022812403834901/wiah.gif?ex=65f05334&is=65ddde34&hm=253ff9c9841f9ab328007d38ba15693e4b66e0fdba88d7ee1b5a43aaf1d1801d&=&width=547&height=311'
+    'https://media.discordapp.net/attachments/1205101702190202930/1220356982821752914/medmung.gif?ex=660ea501&is=65fc3001&hm=60133cb2c79056691bd54ddb968f16a416c088e7822b85a421018d9f8df2026b&='
     // Add more large image URLs as needed
 ];
 
 const stateTexts = [
-    '「 KatV4 Raid tool! 」',
     '「 Besser als AMW 」',
     '「 Lang lebe die kat armee 」'
-    // Add more state texts as needed
 ];
 
 const nameTexts = [
-  '꒦꒷ KatV4 Raid tool! ',
   '꒦꒷ Besser als AMW ',
   '꒦꒷ Lang lebe die kat armee '
   // Add more state texts as needed
